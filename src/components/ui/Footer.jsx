@@ -9,7 +9,7 @@ export const Footer = () => {
               className="grey-text text-lighten-4 right"
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/DuckPluck/react-shop">
+              href="https://github.com/DuckPluck/react-food">
             Repo
           </a>
         </div>
